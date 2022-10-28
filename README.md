@@ -1,1 +1,1 @@
-# redirect to http://v7aini.me/login.html
+# redirect to https://v7aini.me/login.html
